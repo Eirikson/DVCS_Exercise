@@ -12,6 +12,7 @@
 
     <address>
         <strong>Support:</strong>   <a href="mailto:Support@example.com">Support@example.com</a><br />
-        <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
+        <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a><br />
+        <strong>Personal</strong> <a href="mailto:Personal@example.com">Personal@example.com</a>
     </address>
 </asp:Content>
