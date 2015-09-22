@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    
+        This page is just here to tell you that we do not offer products, sorry to have fooled you.
     </div>
     </form>
 </body>
