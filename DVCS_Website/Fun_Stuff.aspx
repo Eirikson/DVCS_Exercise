@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    
+        This is where new fun additions to the site will go
     </div>
     </form>
 </body>
